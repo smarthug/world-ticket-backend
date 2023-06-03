@@ -1,0 +1,13 @@
+name="hono-minimal"
+main="src/index.ts"
+
+compatibility_date = "2022-11-22"
+
+# kv_namespaces = [
+#     { binding = "ticket", id = "ticket", preview_id = "ticket_preview" }
+# ]
+
+kv_namespaces = [
+    
+    { binding = "TICKET", id = "a43e36614a224312977259690536a9c7",preview_id = "d96c1d068d804169815af69202903641" }
+]
